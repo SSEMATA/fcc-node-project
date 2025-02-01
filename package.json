@@ -1,12 +1,13 @@
 {
   "name": "fcc-node-project",
   "version": "1.0.0",
-  "author": "Sabira Ssemata",
-  "dependencies": {
-    "express": "^4.18.2"
-  },
+  "description": "My FreeCodeCamp Node.js Project",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
+  },
+  "author": "Sabira Ssemata",
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
-
